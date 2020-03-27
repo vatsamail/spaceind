@@ -1,0 +1,2 @@
+# spaceind
+some gaming basics 
